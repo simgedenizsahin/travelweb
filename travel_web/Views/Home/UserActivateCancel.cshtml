@@ -1,0 +1,59 @@
+﻿@using travel.Entities.Messages
+@model List<ErrorMessageObj>
+
+@{
+    ViewBag.Title = "Geçersiz İşlem.";
+}
+<link href="~/Content/login-register.css" rel="stylesheet" />
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+
+@using (Html.BeginForm())
+{
+    <body>
+        <div id="login">
+            <div class="container">
+                <div id="login-row" class="row justify-content-center align-items-center">
+                    <div id="login-column" class="col-md-6">
+                        <div id="login-box" class="col-md-12">
+                            <form id="login-form" class="form" action="" method="post">
+                                <h1 class="text-center text-info">Yönlendiriliyorsunuz...</h1>
+                                <hr />
+                                <br />
+                                <br />
+
+                                <div class="form-group">
+                                    <h2><span></span>Geçersiz İşlem...</h2>
+
+                                    <p class="text-justify">
+                                        <h4>
+                                            @foreach (ErrorMessageObj err in Model)
+                                            {
+                                                @err.Message<br>
+                                            }
+                                        </h4>
+                                    </p>
+                                </div>
+
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+}
+
+<script>
+
+    $(function () {
+        $("footer").hide();
+        setTimeout(function () {
+            window.location = "/Home";
+        }, 3000);
+    });
+
+</script>
+

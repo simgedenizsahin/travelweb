@@ -1,0 +1,9 @@
+C:\Users\simge\Source\Repos\travel_web\travel.Entities\bin\Debug\travel.Entities.dll
+C:\Users\simge\Source\Repos\travel_web\travel.Entities\bin\Debug\travel.Entities.pdb
+C:\Users\simge\Source\Repos\travel_web\travel.Entities\obj\Debug\travel.Entities.csprojAssemblyReference.cache
+C:\Users\simge\Source\Repos\travel_web\travel.Entities\obj\Debug\travel.Entities.csproj.CoreCompileInputs.cache
+C:\Users\simge\Source\Repos\travel_web\travel.Entities\obj\Debug\travel.Entities.dll
+C:\Users\simge\Source\Repos\travel_web\travel.Entities\obj\Debug\travel.Entities.pdb
+C:\Users\simge\Source\Repos\travel_web\travel.Entities\bin\Debug\FakeData.dll
+C:\Users\simge\Source\Repos\travel_web\travel.Entities\bin\Debug\FakeData.pdb
+C:\Users\simge\Source\Repos\travel_web\travel.Entities\obj\Debug\travel.Entities.csproj.CopyComplete

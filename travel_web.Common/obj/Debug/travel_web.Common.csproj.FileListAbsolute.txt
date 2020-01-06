@@ -1,0 +1,6 @@
+C:\Users\simge\Source\Repos\travel_web\travel_web.Common\obj\Debug\travel_web.Common.csprojAssemblyReference.cache
+C:\Users\simge\Source\Repos\travel_web\travel_web.Common\obj\Debug\travel_web.Common.csproj.CoreCompileInputs.cache
+C:\Users\simge\Source\Repos\travel_web\travel_web.Common\bin\Debug\travel_web.Common.dll
+C:\Users\simge\Source\Repos\travel_web\travel_web.Common\bin\Debug\travel_web.Common.pdb
+C:\Users\simge\Source\Repos\travel_web\travel_web.Common\obj\Debug\travel_web.Common.dll
+C:\Users\simge\Source\Repos\travel_web\travel_web.Common\obj\Debug\travel_web.Common.pdb
